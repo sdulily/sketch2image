@@ -15,7 +15,8 @@ $ conda activate sketch2image
 $ git clone git@github.com:sdulily/sketch2image.git
 $ cd End-to-End-Freehand-Sketch-to-Image-Generation
 ```
-
+complete model and dataset downlown at here:
+https://download.csdn.net/download/artistkeepmonkey/87784790
 ### 3. Install dependencies
 ```bash
 $ pip install -r requirements.txt
