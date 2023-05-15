@@ -1,0 +1,65 @@
+absl-py==1.0.0
+aiohttp==3.8.1
+aiosignal==1.2.0
+async-timeout==4.0.1
+attrs==21.2.0
+brotlipy @ file:///D:/bld/brotlipy_1636012381660/work
+cachetools==4.2.4
+certifi==2021.10.8
+cffi @ file:///D:/bld/cffi_1636046293990/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1644853463426/work
+colorama==0.4.4
+cryptography @ file:///C:/ci/cryptography_1639472366776/work
+dominate @ file:///home/conda/feedstock_root/build_artifacts/dominate_1622404657073/work
+frozenlist==1.2.0
+fsspec==2021.11.1
+future==0.18.2
+google-auth==2.3.3
+google-auth-oauthlib==0.4.6
+grpcio==1.42.0
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
+importlib-metadata==4.8.2
+info-nce-pytorch==0.1.4
+jsonpatch @ file:///home/conda/feedstock_root/build_artifacts/jsonpatch_1632759296524/work
+jsonpointer==2.0
+Markdown==3.3.6
+multidict==5.2.0
+numpy @ file:///D:/bld/numpy_1646717636399/work
+oauthlib==3.1.1
+packaging==21.3
+Pillow @ file:///D:/bld/pillow_1645323409682/work
+protobuf==3.19.1
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pyDeprecate==0.3.1
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1643496850550/work
+pyparsing==3.0.6
+PySocks @ file:///D:/bld/pysocks_1635862590164/work
+pytorch-lightning==1.5.5
+PyYAML==6.0
+pyzmq @ file:///D:/bld/pyzmq_1635877383625/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1641580202195/work
+requests-oauthlib==1.3.0
+rsa==4.8
+scipy @ file:///C:/bld/scipy_1644357701081/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+tensorboard==2.7.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+tensorboardX==2.5
+torch==1.7.1+cu110
+torchaudio==0.7.2
+torchfile==0.1.0
+torchmetrics==0.6.1
+torchvision==0.8.2+cu110
+tornado @ file:///D:/bld/tornado_1635819758615/work
+tqdm==4.62.3
+typing_extensions==4.0.1
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1641584929973/work
+visdom==0.1.8.9
+websocket-client @ file:///home/conda/feedstock_root/build_artifacts/websocket-client_1645884408572/work
+Werkzeug==2.0.2
+win-inet-pton @ file:///D:/bld/win_inet_pton_1635833007271/work
+yarl==1.7.2
+zipp==3.6.0
